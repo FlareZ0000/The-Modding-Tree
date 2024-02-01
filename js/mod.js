@@ -22,7 +22,7 @@ let changelog = `<h1>Changelog:</h1><br>
 		- Added more milestones.<br>
 		- Changed/Added some more upgrades<br>
 		- Fixed A, R, and S node colors<br>
-		- Bug Fixed Upgrade A3<br>
+		- Bug Fixed Upgrade A3 and C6<br>
 		- Changed Upgrade B3's Description<br>
 		- Changed Milestone B4's requirement<br>
 		- Made the Version Numbers more precise<br>
